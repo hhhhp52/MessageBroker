@@ -44,7 +44,7 @@
 
 ## Directory Structure
 
-- **ApiCreation/**
+- **MessageBroker/**
   - `.gitignore`: Ignores files not pushed to GitHub.
   - `Makefile`: Provides convenient commands for execution.
   - `requirements.txt`: Specifies Python package dependencies and versions.
